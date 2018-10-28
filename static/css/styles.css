@@ -1,0 +1,29 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+}
+
+.container h1, .container h3, p, img {
+    text-align: center;
+}
+
+.homelist {
+    list-style-type: none;
+    text-align: center;
+}
+
+.homelist li {
+    display: inline-block;
+}
+
+.image {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 3px;
+}
